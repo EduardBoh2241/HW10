@@ -1,0 +1,45 @@
+    1  clear
+    2  git clone [200~https://github.com/EduardBoh2241/HW10.git~
+    3  git clone https://github.com/EduardBoh2241/HW10.git
+    4  cd HW10/
+    5  git status
+    6  touch text_ignore.txt
+    7  git status
+    8  git add text_ignore.txt
+    9  git status
+   10  git status
+   11  nano.gitignore
+   12  nano .gitignore
+   13  nano .gitignoreclera
+   14  clear
+   15  git status
+   16  git add .gitignore
+   17  git commit -m(Task1)
+   18  git commit -m "Task1"
+   19  touch main_test.txt
+   20  git add main_test.txt
+   21  git commit -m "Task2"
+   22  git branch develop
+   23  git checkout develop
+   24  touch develop_test.txt
+   25  git add develop_test.txt
+   26  git commit -m "1/2Task3"
+   27  nano develop_test.txt 
+   28  clear
+   29  git status
+   30  git add develop_test.txt 
+   31  git status
+   32  git commit -m "Task3"
+   33  checkout main
+   34  git checkout main
+   35  git merge develop
+   36  git log
+   37  clear
+   38  command_list.csv
+   39  git command_list.csv
+   40  git --help
+   41  -clear
+   42  history -a
+   43  command_list.csv
+   44  history command_list.csv
+   45  history > command_list.csv
